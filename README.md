@@ -1,2 +1,0 @@
-# chosung
-Created with CodeSandbox
